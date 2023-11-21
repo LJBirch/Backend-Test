@@ -38,7 +38,7 @@ Once the container is running, you can access the API endpoints at `http://local
 
 ##### Available Endpoints
 
-- `/infer` (POST): For inferring images. You need to send an image file and an optional boolean label.
+- `/infer` (POST): For inferring images. You need to send an image.
 
 #### Test Images
 
