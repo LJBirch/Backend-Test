@@ -29,3 +29,19 @@ What things you need to install the software and how to install them:
 
     This command runs the container and maps port 8000 of the container to port 8000 on your host machine.
 
+
+### Using the Application
+
+#### Accessing the API
+
+Once the container is running, you can access the API endpoints at `http://localhost:8000`.
+
+##### Available Endpoints
+
+- `/infer` (POST): For inferring images. You need to send an image file and an optional boolean label.
+
+#### Test Images
+
+In the `images` folder, you will find test images that you can use to test the `/infer` endpoint.
+
+
