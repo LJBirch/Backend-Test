@@ -6,8 +6,6 @@ These instructions will get you a copy of the API up and running on your local m
 
 ### Prerequisites
 
-What things you need to install the software and how to install them:
-
 - Docker
 - Git (optional, if you're cloning the repository)
 
